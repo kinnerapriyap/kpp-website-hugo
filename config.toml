@@ -2,3 +2,11 @@ baseURL = "http://kinnerapriyap.com/"
 languageCode = "en-us"
 title = "Kinnera Priya Putti"
 theme = "sam"
+
+[[params.mainMenu]]
+    link = "https://github.com/kinnerapriyap"
+    text = "github"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "who is kinnera?"
