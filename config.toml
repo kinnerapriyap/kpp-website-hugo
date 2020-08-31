@@ -2,11 +2,19 @@ baseURL = "http://kinnerapriyap.com/"
 languageCode = "en-us"
 title = "Kinnera Priya Putti"
 theme = "sam"
+googleAnalytics = "UA-90329527-3"  
+
+[params]
+    homepage = "home"
 
 [[params.mainMenu]]
-    link = "https://github.com/kinnerapriyap"
-    text = "github"
+    link = "tech"
+    text = "tech"
 
 [[params.mainMenu]]
-    link = "about"
-    text = "who is kinnera?"
+    link = "creative"
+    text = "creative"
+
+[[params.mainMenu]]
+    link = "mailto:contact@kinnerapriyap.com"
+    text = "ping me"
