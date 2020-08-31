@@ -16,5 +16,9 @@ googleAnalytics = "UA-90329527-3"
     text = "creative"
 
 [[params.mainMenu]]
+    link = "about"
+    text = "who is kinnera?"
+
+[[params.mainMenu]]
     link = "mailto:contact@kinnerapriyap.com"
     text = "ping me"
