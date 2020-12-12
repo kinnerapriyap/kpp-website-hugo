@@ -16,6 +16,8 @@ date: 2020-08-31
 
 ## scribbles
 
+[Escape the curse of the Cursor with CursorWrapper](https://engineering.mercari.com/en/blog/entry/20201212-cursor-with-cursorwrapper/)
+
 [Specifying Kotlin tests with Spek](https://engineering.mercari.com/en/blog/entry/2019-12-12-100000/)
 
 [Mercari x Women Who Code](https://medium.com/mercari-engineering/mercari-x-women-who-code-480d09ea284b)
