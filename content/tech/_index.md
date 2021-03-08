@@ -6,6 +6,8 @@ date: 2021-03-08
 
 [github](https://github.com/kinnerapriyap)
 
+[medium](https://medium.com/@kinnerapriyap)
+
 ## projects
 
 [sher-gil](https://github.com/kinnerapriyap/sher-gil): Media Image picker library in kotlin for Android

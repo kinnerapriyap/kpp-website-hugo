@@ -13,10 +13,6 @@ googleAnalytics = "UA-90329527-3"
     text = "tech"
 
 [[params.mainMenu]]
-    link = "creative"
-    text = "creative"
-
-[[params.mainMenu]]
     link = "about"
     text = "who is kinnera?"
 
