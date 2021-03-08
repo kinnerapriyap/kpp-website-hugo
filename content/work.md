@@ -4,9 +4,10 @@ date: 2021-03-08
 
 ---
 
-twitter [@kinnerapriyap](https://twitter.com/kinnerapriyap)
 github [@kinnerapriyap](https://github.com/kinnerapriyap)
+
 medium [@kinnerapriyap](https://medium.com/@kinnerapriyap)
+
 linkedin [@kinnerapriyap](https://www.linkedin.com/in/kinnerapriyap/)
 
 ## projects
