@@ -10,8 +10,6 @@ googleAnalytics = "UA-90329527-3"
     description          = "Personal site of Kinnera Priya Putti"
     images               = ["me.jpg"]
     title                = "Kinnera Priya Putti"
-
-[params]
     homepage = "home"
     footerText = "కిన్నెర | किन्नेरा | キンネラ"
 
