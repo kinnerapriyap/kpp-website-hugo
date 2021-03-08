@@ -1,8 +1,15 @@
 baseURL = "http://kinnerapriyap.com/"
 languageCode = "en-us"
+isMultilingual = true
+defaultContentLanguage = "en"
 title = "Kinnera Priya Putti"
 theme = "sam"
 googleAnalytics = "UA-90329527-3"  
+
+[params]
+    description          = "Personal site of Kinnera Priya Putti"
+    images               = ["me.jpg"]
+    title                = "Kinnera Priya Putti"
 
 [params]
     homepage = "home"
