@@ -16,8 +16,8 @@ googleAnalytics = "UA-90329527-3"
     footerText = "కిన్నెర | किन्नेरा | キンネラ"
 
 [[params.mainMenu]]
-    link = "tech"
-    text = "tech"
+    link = "work"
+    text = "work"
 
 [[params.mainMenu]]
     link = "about"
