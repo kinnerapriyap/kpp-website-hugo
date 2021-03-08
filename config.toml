@@ -17,5 +17,5 @@ googleAnalytics = "UA-90329527-3"
     text = "who is kinnera?"
 
 [[params.mainMenu]]
-    link = "mailto:contact@kinnerapriyap.com"
+    link = "https://twitter.com/kinnerapriyap"
     text = "ping me"
