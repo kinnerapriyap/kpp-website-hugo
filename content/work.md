@@ -4,7 +4,7 @@ date: 2021-03-08
 
 ---
 
-@kinnerapriyap on [github](https://github.com/kinnerapriyap) | [medium]](https://medium.com/@kinnerapriyap) | [linkedin]](https://www.linkedin.com/in/kinnerapriyap/)
+@kinnerapriyap on [github](https://github.com/kinnerapriyap) | [medium](https://medium.com/@kinnerapriyap) | [linkedin](https://www.linkedin.com/in/kinnerapriyap/)
 
 ## projects
 

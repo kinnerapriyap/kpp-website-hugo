@@ -13,4 +13,4 @@ currently, I am a
 * writer
 * amateur baker 
 
-@kinnerapriyap on [twitter](https://twitter.com/kinnerapriyap) | [github](https://github.com/kinnerapriyap) | [medium]](https://medium.com/@kinnerapriyap) | [linkedin]](https://www.linkedin.com/in/kinnerapriyap/)
+@kinnerapriyap on [twitter](https://twitter.com/kinnerapriyap) | [github](https://github.com/kinnerapriyap) | [medium](https://medium.com/@kinnerapriyap) | [linkedin](https://www.linkedin.com/in/kinnerapriyap/)
