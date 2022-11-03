@@ -1,10 +1,16 @@
 ---
 title: "work"
-date: 2021-03-08
+date: 2022-11-3
 
 ---
 
 @kinnerapriyap on [github](https://github.com/kinnerapriyap) | [medium](https://medium.com/@kinnerapriyap) | [linkedin](https://www.linkedin.com/in/kinnerapriyap/)
+
+## speaking
+
+the curious case of android gesture animation - [Women Who Code Connect Reimagine 2021](https://www.youtube.com/watch?v=lCFH9QmU6Ds) and [droidcon berlin 2022](https://www.droidcon.com/2022/08/01/the-curious-case-of-android-gesture-animation-2/) #dcbln22
+
+journey of the android white label process at ioki - [GDG Mini Summit Frankfurt 2022](https://gdg.community.dev/events/details/google-gdg-rhein-main-presents-gdg-mini-summit-community-get2gether/)
 
 ## projects
 
