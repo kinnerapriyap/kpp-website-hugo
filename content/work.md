@@ -1,6 +1,6 @@
 ---
 title: "work"
-date: 2022-11-3
+date: 2023-5-14
 
 ---
 
@@ -8,9 +8,11 @@ date: 2022-11-3
 
 ## speaking
 
+[upcoming] android and arduino: a love connection - [droidcon Berlin 2023](https://berlin.droidcon.com/)
+
 [upcoming] animating content changes with jetpack compose - [droidcon San Francisco 2023](https://sf.droidcon.com/)
 
-[upcoming] journey of the android white label process - [AndroidMakers by droidcon Paris 2023](https://androidmakers.droidcon.com/) and [GDG Mini Summit Frankfurt 2022](https://gdg.community.dev/events/details/google-gdg-rhein-main-presents-gdg-mini-summit-community-get2gether/)
+journey of the android white label process - [AndroidMakers by droidcon Paris 2023](https://androidmakers.droidcon.com/) and [GDG Mini Summit Frankfurt 2022](https://gdg.community.dev/events/details/google-gdg-rhein-main-presents-gdg-mini-summit-community-get2gether/)
 
 the curious case of android gesture animation - [droidcon berlin 2022](https://www.droidcon.com/2022/08/01/the-curious-case-of-android-gesture-animation-2/) #dcbln22 and [Women Who Code Connect Reimagine 2021](https://www.youtube.com/watch?v=lCFH9QmU6Ds)
 
