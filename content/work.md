@@ -8,6 +8,8 @@ date: 2023-5-14
 
 ## speaking
 
+[upcoming] structuring modules in an Android app project - [droidcon London 2023](https://london.droidcon.com/)
+
 animating content changes with jetpack compose - [droidcon San Francisco 2023](https://www.droidcon.com/2023/07/20/animating-content-changes-with-jetpack-compose/)
 
 journey of the android white label process - [AndroidMakers by droidcon Paris 2023](https://www.droidcon.com/2023/06/21/journey-of-the-android-white-label-process/) and [GDG Mini Summit Frankfurt 2022](https://gdg.community.dev/events/details/google-gdg-rhein-main-presents-gdg-mini-summit-community-get2gether/)
@@ -16,7 +18,9 @@ the curious case of android gesture animation - [droidcon berlin 2022](https://w
 
 ## writing
 
-[The Android White Label Process at ioki](https://appdevcon.nl/the-android-white-label-process-at-ioki/)
+[The Android White Label Process at ioki.engineering](https://ioki.engineering/posts/2023-09-24-the-android-white-label-process)
+
+[The Android White Label Process at ioki for AppDevCon 2023](https://appdevcon.nl/the-android-white-label-process-at-ioki/)
 
 [Escape the curse of the Cursor with CursorWrapper](https://engineering.mercari.com/en/blog/entry/20201212-cursor-with-cursorwrapper/)
 
