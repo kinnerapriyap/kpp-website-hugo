@@ -1,6 +1,6 @@
 ---
 title: "work"
-date: 2023-5-14
+date: 2024-2-26
 
 ---
 
@@ -8,7 +8,7 @@ date: 2023-5-14
 
 ## speaking
 
-[upcoming] structuring modules in an Android app project - [droidcon London 2023](https://london.droidcon.com/)
+structuring modules in an Android app project - [droidcon London 2023]([https://london.droidcon.com/](https://www.droidcon.com/2023/11/15/structuring-modules-in-an-android-app-project/))
 
 animating content changes with jetpack compose - [droidcon San Francisco 2023](https://www.droidcon.com/2023/07/20/animating-content-changes-with-jetpack-compose/)
 
@@ -32,13 +32,17 @@ the curious case of android gesture animation - [droidcon berlin 2022](https://w
 
 ## projects
 
-[sher-gil](https://github.com/kinnerapriyap/sher-gil): Media Image picker library in kotlin for Android
+[the-android-undertaker](https://github.com/kinnerapriyap/the-android-undertaker): Experiments with android-y things I needed to make just because.
 
-[do-you-wanna-build-a-countdown-timer](https://github.com/kinnerapriyap/do-you-wanna-build-a-countdown-timer): Recreation of [the-banka-toggle](https://github.com/kinnerapriyap/the-banka-toggle) with Jetpack Compose for Week 2 of the #AndroidDevChallenge
+[advent-of-code](https://github.com/kinnerapriyap/advent-of-code): My solutions for Advent of Code '21, '22 and '23.
 
-[Is that tone?](https://github.com/kinnerapriyap/is-that-tone-android): Android app in kotlin inspired by the game はぁって言うゲーム, made with Jetpack Compose
+[sher-gil](https://github.com/kinnerapriyap/sher-gil): Media Image picker library in kotlin for Android.
 
-[the-banka-toggle](https://github.com/kinnerapriyap/the-banka-toggle): Stretchy, sticky, bouncy drag gesture animation for Android 
+[do-you-wanna-build-a-countdown-timer](https://github.com/kinnerapriyap/do-you-wanna-build-a-countdown-timer): Recreation of [the-banka-toggle](https://github.com/kinnerapriyap/the-banka-toggle) with Jetpack Compose for Week 2 of the #AndroidDevChallenge.
+
+[Is that tone?](https://github.com/kinnerapriyap/is-that-tone-android): Android app in kotlin inspired by the game はぁって言うゲーム, made with Jetpack Compose.
+
+[the-banka-toggle](https://github.com/kinnerapriyap/the-banka-toggle): Stretchy, sticky, bouncy drag gesture animation for Android.
 
 [Ketu the image!](https://github.com/kinnerapriyap/ketu-the-img): Chrome extension to replace uploaded image markdown with html img tag and width attributes in Github PRs. Get the extension on the Chrome web store [here](https://chrome.google.com/webstore/detail/ketu-the-image/cfaiodgiaecemdaehdgnnopjeidfogid)!
 
