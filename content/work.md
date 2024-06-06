@@ -8,7 +8,7 @@ date: 2024-2-26
 
 ## speaking
 
-structuring modules in an Android app project - [droidcon London 2023]([https://london.droidcon.com/](https://www.droidcon.com/2023/11/15/structuring-modules-in-an-android-app-project/))
+structuring modules in an Android app project - [droidcon London 2023](https://www.droidcon.com/2023/11/15/structuring-modules-in-an-android-app-project/) and AndroidMakers by droidcon Paris 2024
 
 animating content changes with jetpack compose - [droidcon San Francisco 2023](https://www.droidcon.com/2023/07/20/animating-content-changes-with-jetpack-compose/)
 
