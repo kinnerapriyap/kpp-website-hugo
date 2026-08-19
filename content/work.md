@@ -10,7 +10,7 @@ date: 2024-2-26
 
 a guide to loading animations in jetpack compose - [droidcon berlin 2025](https://www.youtube.com/watch?v=mydREjWUUzI)
 
-android and arduino: a love connection - [droidcon Lisbon 2024](https://www.lisbon.droidcon.com/)
+android and arduino: a love connection - [droidcon Lisbon 2024](https://www.youtube.com/watch?v=pRmNUR7vV6M)
 
 structuring modules in an Android app project - [droidcon London 2023](https://www.droidcon.com/2023/11/15/structuring-modules-in-an-android-app-project/) and [AndroidMakers by droidcon Paris 2024](https://www.youtube.com/watch?v=dSCNkNeg5Pk)
 
