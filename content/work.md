@@ -36,6 +36,10 @@ the curious case of android gesture animation - [droidcon berlin 2022](https://w
 
 ## projects
 
+[patttttern](https://github.com/kinnerapriyap/patttttern): Generate sewing patterns in python, configurable and customisable for different measurements.
+
+[model-the-3d](https://github.com/kinnerapriyap/model-the-3d): 3D modelling in SCAD.
+
 [the-android-undertaker](https://github.com/kinnerapriyap/the-android-undertaker): Experiments with android-y things I needed to make just because.
 
 [advent-of-code](https://github.com/kinnerapriyap/advent-of-code): My solutions for Advent of Code '21, '22 and '23.
