@@ -1,6 +1,6 @@
 ---
 title: "about me"
-date: 2022-11-3
+date: 2026-8-19
 ---
 
 heylo, i'm kinnera! | she/her
