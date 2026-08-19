@@ -5,10 +5,10 @@ date: 2022-11-3
 
 heylo, i'm kinnera! | she/her
 
-location: near the sugar
+location: near the sugar | Berlin
 
 current:
-* android developer at ioki GmbH | DB in Frankfurt (kotlin) | 2021 - present
+* android developer at ioki GmbH in Frankfurt (kotlin) | 2021 - present
 
 past:
 * mobile developer at Mercari US@Tokyo, working on Android (java/kotlin) and ReactNative (js/ts) | 2018 - 2021
